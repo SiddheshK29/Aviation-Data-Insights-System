@@ -48,7 +48,7 @@ Subqueries: scalar, row, column-level
 
 Set operations: UNION ALL
 
-### Views : CREATE VIEW
+Views : CREATE VIEW
 
 # Conclusion
 
