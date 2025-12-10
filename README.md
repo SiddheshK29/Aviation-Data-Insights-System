@@ -48,9 +48,9 @@ Subqueries: scalar, row, column-level
 
 Set operations: UNION ALL
 
-Views: CREATE VIEW
+### Views : CREATE VIEW
 
-#Conclusion
+# Conclusion
 
 The Aviation Data Insights System demonstrates the importance of SQL in managing and analyzing large-scale operational data. By organizing flights, passengers, airports, and bookings into a structured database, the system enables powerful querying, performance evaluation, and trend discovery.
 The project not only highlights technical proficiency in SQL but also shows how data-driven insights support operational improvements, better passenger management, and strategic planning in the aviation industry.
