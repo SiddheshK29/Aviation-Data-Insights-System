@@ -6,7 +6,7 @@ This project builds an SQL-based aviation database to store, manage, and analyze
 The aviation sector generates massive volumes of operational data, including flights, airports, passengers, aircrafts, and bookings. Managing and analyzing this complex data manually is inefficient and error-prone.
 To address this, the Aviation Data Insights System was developed using SQL. The project builds a structured relational database system that allows efficient storage, management, retrieval, and analysis of aviation data. It supports real-time insights into flight schedules, passenger activity, aircraft performance, booking patterns, and operational efficiency.
 
-#Scope of the Project
+# Scope of the Project
 
 This project covers:
 
